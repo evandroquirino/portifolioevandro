@@ -1,0 +1,26 @@
+footer p{
+  color: #fff;
+}
+.nav-link{
+  color: #fff;
+}
+.logoNav {
+  width: 5rem;
+}
+
+.logoFooter{
+  width: 4rem;
+}
+
+.nav-link:hover {
+  color: #808080;
+}
+
+#banner img{
+  margin-bottom: 50px;
+  border-bottom: 10px solid #000;
+  box-shadow: 0 0 30px #333;
+  height: 20rem;
+}
+
+
